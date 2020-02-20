@@ -31,6 +31,18 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Adlib.Database, Version=1.0.6589.22655, Culture=neutral, PublicKeyToken=daf2ec9c1076442b, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\Desktop\Rolf Designer versie\adlibDesigner_7.5.18015.1\Adlib.Database.dll</HintPath>
+    </Reference>
+    <Reference Include="Adlib.Interfaces, Version=1.0.6589.22649, Culture=neutral, PublicKeyToken=daf2ec9c1076442b, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\Desktop\Rolf Designer versie\adlibDesigner_7.5.18015.1\Adlib.Interfaces.dll</HintPath>
+    </Reference>
+    <Reference Include="Adlib.Objects, Version=7.3.0.0, Culture=neutral, PublicKeyToken=daf2ec9c1076442b, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\Desktop\Rolf Designer versie\adlibDesigner_7.5.18015.1\Adlib.Objects.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />

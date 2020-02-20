@@ -25,7 +25,6 @@ namespace AdlibGraph
         stopWatch.Start();
         adlibNodes.LoadNodes(args[0]);
 
-        adlibNodes.CreateDatabaseEdges();
         adlibNodes.CreateApplicationEdges();
         stopWatch.Stop();
 
